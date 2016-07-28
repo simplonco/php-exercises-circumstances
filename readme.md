@@ -37,3 +37,33 @@ Magnitude   |   Phrase
 
 Gérer tous les cas.  
 *Utilser autre chose que des if else*
+
+##Exercice 5
+Traduire ce code avec des if et des else :  
+
+
+    <?php
+      echo ($maVariable == true) ? 'c'est ok !!! : 'c'est pas bon !!!';
+    ?>
+
+##Exercice 6
+Traduire ce code avec des if et des else :  
+
+
+    <?php
+      echo ($monAge >= 18) ? 'Tu es majeur' : 'Tu n'est pas majeur';
+    ?>
+##Exercice 7
+Traduire ce code avec des if et des else :  
+
+
+    <?php
+      echo ($maVariable == false) ? 'c'est pas bon !!!' : 'c'est ok !!';
+    ?>
+##Exercice 8
+Traduire ce code avec des if et des else :  
+
+
+    <?php
+      echo ($maVariable) ? 'c'est ok !!' : 'c'est pas bon !!!';
+    ?>
