@@ -23,7 +23,7 @@ Gérer tous les cas.
 L'échelle de Richter est un outil de mesure qui permet de définir la magnitude de moment d'un tremblement de terre. Cette échelle va de 1 à 9.  
 Créer une variable **magnitude**. Selon la valeur de **magnitude**, afficher la phrase correspondante.  
 
-magnitude   |   phrase
+Magnitude   |   Phrase
 ------      |    ---
 1           |   Micro-séisme impossible à ressentir.
 2           |   Micro-séisme impossible à ressentir mais enregistrable par les sismomètres.
