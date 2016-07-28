@@ -12,7 +12,7 @@ Afficher **C'est facile!!** si c'est vrai. Dans le cas contraire afficher **C'es
 Créer deux variables **age** et **genre**. La variable **genre** peut prendre comme valeur :
 - Homme
 - Femme  
-En fonction de l'age et du genre afficher la phrase correspodante :
+En fonction de l'âge et du genre afficher la phrase correspondante :
 - **Vous êtes un homme et vous êtes majeur**
 - **Vous êtes un homme et vous êtes mineur**
 - **Vous êtes une femme et vous êtes majeur**
