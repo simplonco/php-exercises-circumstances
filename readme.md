@@ -35,4 +35,5 @@ Magnitude   |   Phrase
 8           |   Séisme capable de destructions majeures sur une très large zone de plusieurs centaines de kilomètres.
 9           |   Séisme capable de tout détruire sur une très vaste zone.  
 
-Gérer tous les cas.
+Gérer tous les cas.  
+*Utilser autre chose que des if else*
