@@ -32,5 +32,5 @@ Créer une variable **magnitude**. Selon la valeur de **magnitude**, afficher la
 |   6           |   Fort séisme capable d'engendrer des destructions majeures sur une large distance (180 km) autour de l'épicentre.                                                             |   
 |   7           |   Séisme capable de destructions majeures à modérées sur une très large zone en fonction de la distance.                                                                |
 |   8           |   Séisme capable de destructions majeures sur une très large zone de plusieurs centaines de kilomètres.                                                              |
-|   9           |   Séisme capable de tout détruire sur une très vaste zone.                                                                    |
+|   9           |   Séisme capable de tout détruire sur une très vaste zone.                                                                    |  
 Gérer tous les cas.
