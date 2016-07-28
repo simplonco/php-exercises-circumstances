@@ -16,12 +16,12 @@ En fonction de l'age et du genre afficher la phrase correspodante :
 - **Vous êtes un homme et vous êtes majeur**
 - **Vous êtes un homme et vous êtes mineur**
 - **Vous êtes une femme et vous êtes majeur**
-- **Vous êtes une femme et vous êtes mineur**
+- **Vous êtes une femme et vous êtes mineur**  
 Gérer tous les cas.
 
 ##Exercice 4
 L'échelle de Richter est un outil de mesure qui permet de définir la magnitude de moment d'un tremblement de terre. Cette échelle va de 1 à 9.  
-Créer une variable **magnitude**. Selon la valeur de **magnitude**, afficher la phrase correspondante.
+Créer une variable **magnitude**. Selon la valeur de **magnitude**, afficher la phrase correspondante.  
 |   magnitude   |   phrase                                                                                                                             |
 |    ------     |    ---   |
 |   1           |   Micro-séisme impossible à ressentir.   |
