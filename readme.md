@@ -51,7 +51,7 @@ Traduire ce code avec des if et des else :
 
 
     <?php
-      echo ($monAge >= 18) ? 'Tu es majeur' : 'Tu n'est pas majeur';
+      echo ($monAge >= 18) ? 'Tu es majeur' : 'Tu n'es pas majeur';
     ?>
 ##Exercice 7
 Traduire ce code avec des if et des else :  
